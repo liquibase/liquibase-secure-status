@@ -1,5 +1,5 @@
 owner: liquibase
-repo: liquibase-secure-status
+repo: liquibase-github-deploy-status
 
 sites:
   - name: Liquibase Secure API
